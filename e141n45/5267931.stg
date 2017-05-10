@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Airport/ils.xml 141.793308 45.400886 6.49 290.88
-OBJECT_SHARED Models/Communications/vordme_1.xml 141.805647 45.407358 0 180
 OBJECT_SHARED Models/Airport/marker.ac 141.777831 45.397836 1.57 180
 OBJECT_SHARED Models/Airport/localizer.xml 141.815669 45.408117 6.99 158.85
 # dsf2stg
@@ -18,3 +17,5 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79638 45.39950 7.19 65.8
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 141.79840 45.39967 7.14 21.07
 OBJECT_SHARED Models/lib/MedHangar.ac 141.79655 45.39956 7.17 291.24
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 141.815669 45.408117 6.99 290.88
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 141.805647 45.407358 0 180
